@@ -23,3 +23,19 @@ This simulation provides a foundation for understanding basic traffic management
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/TrafficSimulation.git](https://github.com/YOUR_USERNAME/TrafficSimulation.git)  *(Replace with your actual repository URL)*
+TrafficSimulation/
+├── README.md
+├── LICENSE
+├── src/
+│   ├── main.py
+│   ├── car.py
+│   ├── intersection.py (If used)
+│   ├── traffic_light.py
+│   └── utils.py (If used)
+├── assets/ (If used)
+│   ├── car.png
+│   └── ...
+├── data/ (If used)
+│   ├── results.csv
+│   └── ...
+└── requirements.txt
